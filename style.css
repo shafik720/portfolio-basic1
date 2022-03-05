@@ -1,0 +1,60 @@
+
+body{
+    font-family: 'League Spartan', sans-serif;
+    margin: 0px;
+}
+h1 {
+    font-size: 60px;
+}
+p{
+    font-size: 1.3em;
+}
+.peters{
+    display: flex;
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+}
+
+.peter{
+    width: 50%;
+    margin-left: 7%;
+}
+
+.peter img{
+    width: 80%;
+}
+.oranged-text{
+    color: orange;
+}
+.oranged-button{
+    background-image: linear-gradient(90deg, tomato, orange);
+    color: white;
+    text-decoration: none;
+    padding: 15px 40px;
+    border-radius: 5px;
+}
+.link-button{
+    margin-top: 40px;
+}
+
+.dreams{
+    display: flex;
+    margin-top: 100px;
+}
+.dream{
+    width: 50%;
+}
+.dream img{
+    width: 80%;
+}
+.dream p{
+    margin-bottom: 30px;
+}
+.blue-button{
+    padding: 15px 40px;
+    background-image: linear-gradient(-120deg, blue, rgb(49, 172, 221));
+    color: white;
+    text-decoration: none;
+    font-weight: 600;
+    border-radius: 5px;
+}

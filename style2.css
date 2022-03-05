@@ -1,0 +1,36 @@
+body{
+    font-family: 'League Spartan', sans-serif;
+    margin: 0px auto;
+}
+
+h1{
+    font-size: 60px;
+}
+.peters{
+    display: flex;
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+    
+}
+.peter{
+    width: 50%;
+    margin-left: 7%;
+}
+.peter img{
+    width: 80%;
+}
+.oranged-text{
+    color: orange;
+}
+.peter p{
+    font-size: 1.3em;
+    margin-bottom: 40px;
+}
+.link-button{
+    background-image: linear-gradient(120deg, tomato, orange);
+    color: white;
+    padding: 15px 40px;
+    border-radius: 5px;
+    text-decoration: none;
+    font-weight: 600;
+}
